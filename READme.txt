@@ -24,7 +24,5 @@ Part_3_Models \'97> In this notebook two things are being done:
     				          - XGBoost
       					  - Naive Bayes
 
-CSV Campionati -->  In this folder there are the files downloaded by the website that provided with the soccer stats and the betting odds (https://www.football-data.co.uk/italym.php)
-DataFrameTwitter --> In this folder is possible to find the files updated with the tweets data. This csv files have been used to build models.
-Report Capstone -->  Is the pdf file that provides the reports of the capstone
+
 
